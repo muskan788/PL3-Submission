@@ -1,0 +1,48 @@
+body
+{
+	font-family: verdana;
+	font-weight: lighter;
+}
+
+h2
+{
+	color:crimson;
+	text-decoration: underline;
+	font-size: 35px;
+	width: 1128px;
+	box-shadow: 10px 10px 5px 1px lightgrey;
+}
+
+#name
+{
+	padding: 10px;
+	font-size: large;
+}
+
+#table table, th, td
+{
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+	padding: 10px;
+	border-collapse: collapse;
+}
+
+
+
+footer
+{
+	text-align: center;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: white;
+	color:blueviolet;
+}
+
+.P_no
+{
+	color: blue;
+	text-decoration: underline;
+}
